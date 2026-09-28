@@ -1,0 +1,1 @@
+[![Sales Service Project (CI included) | © 2026](https://github.com/phamngophat/sales-service-junit/actions/workflows/maven.yml/badge.svg)](https://github.com/phamngophat/sales-service-junit/actions/workflows/maven.yml)
