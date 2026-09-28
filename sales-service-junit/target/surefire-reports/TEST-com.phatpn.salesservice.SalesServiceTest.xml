@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.phatpn.salesservice.SalesServiceTest" time="0.246" tests="12" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\SWT301 _ re\LAB2_SWT\sales-service-junit\target\test-classes;D:\SWT301 _ re\LAB2_SWT\sales-service-junit\target\classes;C:\Users\anbin\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\anbin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\anbin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\anbin\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\anbin\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\anbin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\anbin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\anbin\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Bangkok"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="sun.java.command" value="C:\Users\anbin\AppData\Local\Temp\surefire5677175361612929817\surefirebooter14192118679342182580.jar C:\Users\anbin\AppData\Local\Temp\surefire5677175361612929817 2026-09-25T15-02-17_915-jvmRun1 surefire3424510919778460921tmp surefire_0757838924290956759tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\SWT301 _ re\LAB2_SWT\sales-service-junit\target\test-classes;D:\SWT301 _ re\LAB2_SWT\sales-service-junit\target\classes;C:\Users\anbin\.m2\repository\org\junit\jupiter\junit-jupiter\5.8.2\junit-jupiter-5.8.2.jar;C:\Users\anbin\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.8.2\junit-jupiter-api-5.8.2.jar;C:\Users\anbin\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\anbin\.m2\repository\org\junit\platform\junit-platform-commons\1.8.2\junit-platform-commons-1.8.2.jar;C:\Users\anbin\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\anbin\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.8.2\junit-jupiter-params-5.8.2.jar;C:\Users\anbin\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.8.2\junit-jupiter-engine-5.8.2.jar;C:\Users\anbin\.m2\repository\org\junit\platform\junit-platform-engine\1.8.2\junit-platform-engine-1.8.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\anbin"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-10-15"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\SWT301 _ re\LAB2_SWT\sales-service-junit"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\anbin\AppData\Local\Temp\surefire5677175361612929817\surefirebooter14192118679342182580.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.5+9-LTS-239"/>
+    <property name="user.name" value="ABC"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-24\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\anbin\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\anbin\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.5"/>
+    <property name="user.dir" value="D:\SWT301 _ re\LAB2_SWT\sales-service-junit"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-21.0.8.9-hotspot\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\OpenLogic\jdk-17.0.12.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\mingw64\bin;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\msys64\mingw64\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Eclipse Adoptium\jdk-21.0.8.9-hotspot\\bin;C:\Program Files\Eclipse Adoptium\jdk-21.0.8.9-hotspot\\bin;D:\Download\apache-maven-3.9.11-bin\apache-maven-3.9.11\bin;D:\Download\apache-maven-3.9.11-bin\apache-maven-3.9.11\bin;D:\apache-maven-3.9.6\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;D:\Download\apache-maven-3.9.11-bin\apache-maven-3.9.11\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\anbin\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\anbin\AppData\Local\Programs\Python\Python311\;C:\Users\anbin\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\anbin\AppData\Local\Programs\Python\Python310\;C:\Users\anbin\AppData\Local\Microsoft\WindowsApps;C:\mingw64\bin;C:\Users\anbin\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Users\anbin\.lmstudio\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.1.1\bin;;C:\Users\anbin\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\anbin\AppData\Roaming\npm;C:\Users\anbin\AppData\Local\Programs\Antigravity\bin;C:\Users\anbin\AppData\Local\Programs\Ollama;C:\Users\anbin\AppData\Local\Programs\Antigravity IDE\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.5+9-LTS-239"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="testExceptions" classname="com.phatpn.salesservice.SalesServiceTest" time="0.059"/>
+  <testcase name="testCalculateShippingFee" classname="com.phatpn.salesservice.SalesServiceTest" time="0.003"/>
+  <testcase name="testClassifyCustomer" classname="com.phatpn.salesservice.SalesServiceTest" time="0.001"/>
+  <testcase name="testCalculateDiscount_BoundaryValues(double, double)[1]" classname="com.phatpn.salesservice.SalesServiceTest" time="0.037"/>
+  <testcase name="testCalculateDiscount_BoundaryValues(double, double)[2]" classname="com.phatpn.salesservice.SalesServiceTest" time="0.002"/>
+  <testcase name="testCalculateDiscount_BoundaryValues(double, double)[3]" classname="com.phatpn.salesservice.SalesServiceTest" time="0.004"/>
+  <testcase name="testCalculateDiscount_BoundaryValues(double, double)[4]" classname="com.phatpn.salesservice.SalesServiceTest" time="0.003"/>
+  <testcase name="testCalculateDiscount_BoundaryValues(double, double)[5]" classname="com.phatpn.salesservice.SalesServiceTest" time="0.003"/>
+  <testcase name="testCalculateDiscount_BoundaryValues(double, double)[6]" classname="com.phatpn.salesservice.SalesServiceTest" time="0.002"/>
+  <testcase name="testCalculateSubtotal_NormalCases" classname="com.phatpn.salesservice.SalesServiceTest" time="0.004"/>
+  <testcase name="testAdditionalCoverage" classname="com.phatpn.salesservice.SalesServiceTest" time="0.003"/>
+  <testcase name="testCalculateTotal" classname="com.phatpn.salesservice.SalesServiceTest" time="0.001"/>
+</testsuite>
